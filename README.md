@@ -38,10 +38,14 @@ Veri seti, meme kanseri teşhisi yapmak için kullanılacak olan bağımsız de�
 
     'fractal_dimension_mean': Tümörün fraktal boyutunun ortalaması.
 
-![data_set](img/heatmap_plt.png)
+![heat_map](img/heatmap_plt.png)
 
 ## Sonuçlar
 Çalışmanın sonuçları, beş farklı makine öğrenimi algoritmasının meme kanseri teşhisi yapma yeteneklerini karşılaştıracaktır. Bu sonuçlar, her algoritmanın duyarlılık, ağırlık, doğruluk ve kesinlik gibi performans ölçütleri açısından nasıl performans gösterdiğini gösterecektir. Genel olarak, kullanılan algoritmaların doğruluk oranları %90 seviyelerindedir. Özellikle K-NN algoritması, %93'lük doğruluk oranıyla dikkat çeken bir algoritma olarak seçilmiştir.
+
+### K-NN algoritmasının sonuçları
+![result_KNN](img/result_KNN.png)
+
 
 ## İletişim
 
